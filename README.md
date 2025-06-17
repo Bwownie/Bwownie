@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on a nosql postresql database api.
+- 🔭 I’m currently working on an inventory managment and order system for small businesses.
 - 🌱 I’m currently learning rust and memory saftey
 - 😄 Pronouns: He/Him
 
