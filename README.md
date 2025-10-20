@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 🔭 I’m currently working on an inventory managment and order system for small businesses.
-- 🌱 I’m currently learning rust and memory saftey
+- 🔭 I’m currently working on my own account system (similar to a google account) and my own version of 0auth for use in my personal projects.
+- 🌱 I’m currently learning about encyrption, docker images and api's.
 - 😄 Pronouns: He/Him
 
 # 💻 Tech Stack:
