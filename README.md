@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 🔭 I’m currently working on BrownieGate — a hosted SSO provider (a Google-account alternative), the BrownieGate client libraries, and example integrations to help developers adopt the service.
-- 🌱 I’m currently learning more about OAuth2/OpenID Connect, secure token handling, production deployment with Docker, and running secure services at scale.
+- 🔭 I’m currently working on gatecam (a temp name lol) — which is an open source alternative to a ring doorbell which you can optionally self host for even more control of your privacy.
+- 🌱 I’m currently learning more about embedded systems, CAD, electrical engineering, production deployment with Docker, and running services at scale.
 - 😄 Pronouns: He/Him
 
 # 💻 Tech Stack:
